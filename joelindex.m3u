@@ -1,0 +1,836 @@
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 15:08 21.11.2023 |
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="1" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT 1  ULUSAL
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="2" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", ATV  ULUSAL
+https://ecanlitv3.etvserver.com/atv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="3" tvg-name="showtv" tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", SHOW TV  ULUSAL
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="7" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", BEYAZ TV  ULUSAL
+https://ecanlitv3.etvserver.com/beyaztv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="4" tvg-name="kanald" tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", KANAL D  ULUSAL
+https://ecanlitv3.etvserver.com/kanald.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="6" tvg-name="startv" tvg-logo="https://m.yilmaztv.cc/logo/star-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", STAR TV  ULUSAL
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="9" tvg-name="360tv" tvg-logo="https://m.yilmaztv.cc/logo/360-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", 360 TV  ULUSAL
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="5" tvg-name="kanal7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", KANAL 7  ULUSAL
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="10" tvg-name="lalegultv" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", LALEGÜL TV  ULUSAL
+https://ecanlitv3.etvserver.com/lalegultv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTINF:-1 tvg-id="66" tvg-name="berattv" tvg-logo="https://m.yilmaztv.cc/logo/berat-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", BERAT TV  ULUSAL
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="58" tvg-name="a2tv" tvg-logo="https://m.yilmaztv.cc/logo/a2-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", A2 TV  ULUSAL
+https://ecanlitv3.etvserver.com/a2tv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="57" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TEVE 2  ULUSAL
+https://ecanlitv3.etvserver.com/teve2.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTINF:-1 tvg-id="11" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV 8  ULUSAL
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="12" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV 8.5  ULUSAL
+https://ecanlitv3.etvserver.com/tv855.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="15" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT BELGESEL  ULUSAL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", D MAX  ULUSAL
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TLC  ULUSAL
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="13" tvg-name="ciftcitv" tvg-logo="https://m.yilmaztv.cc/logo/ciftci-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", ÇİFTCİ TV  ULUSAL
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="59" tvg-name="tv4" tvg-logo="https://m.yilmaztv.cc/logo/tv-4.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV 4  ULUSAL
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+	
+#EXTINF:-1 tvg-id="63" tvg-name="teleontv" tvg-logo="https://m.yilmaztv.cc/logo/teleon-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TELEON TV  ULUSAL
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="30" tvg-name="denizpostasitv" tvg-logo="https://m.yilmaztv.cc/logo/deniz-postasi-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", DENİZ POSTASI TV  ULUSAL
+https://ecanlitv3.etvserver.com/sabantv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="31" tvg-name="tv19corum" tvg-logo="https://m.yilmaztv.cc/logo/tv19-corum.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV19 ÇORUM  ULUSAL
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="16" tvg-name="trtebatvilkokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ilkokul.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT EBA TV İLKOKUL  ULUSAL
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="17" tvg-name="trtebatvortaokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ortaokul.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT EBA TV ORTAOKUL  ULUSAL
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="18" tvg-name="trtebatvlise" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-lise.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT EBA TV LİSE  ULUSAL
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="19" tvg-name="trtmuzik" tvg-logo="https://m.yilmaztv.cc/logo/trt-muzik.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT MUZİK  ULUSAL
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="20" tvg-name="trtturk" tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT TURK  ULUSAL
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="24" tvg-name="trtarapca" tvg-logo="https://m.yilmaztv.cc/logo/trt-arapca.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT ARAPÇA  ULUSAL
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="25" tvg-name="trtkurdi" tvg-logo="https://m.yilmaztv.cc/logo/trt-kurdi.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT KURDİ  ULUSAL
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+	
+#EXTINF:-1 tvg-id="26" tvg-name="diyanettv" tvg-logo="https://m.yilmaztv.cc/logo/diyanet-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", DİYANET TV  ULUSAL
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="27" tvg-name="trtworld" tvg-logo="https://m.yilmaztv.cc/logo/trt-world.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT WORLD  ULUSAL
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="28" tvg-name="cine5tv" tvg-logo="https://m.yilmaztv.cc/logo/cine5-tv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", CİNE5 TV  ULUSAL
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="29" tvg-name="tgrteu" tvg-logo="https://m.yilmaztv.cc/logo/tgrt-eu.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TGRT EU  ULUSAL
+https://ecanlitv3.etvserver.com/tgrteu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTINF:-1 tvg-id="87" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TRT 1  ULUSAL
+http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77322.m3u8
+	
+#EXTINF:-1 tvg-id="88" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", ATV  ULUSAL
+http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/113560.m3u8
+	
+#EXTINF:-1 tvg-id="89" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV 8  ULUSAL
+http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77485.m3u8
+	
+#EXTINF:-1 tvg-id="90" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1700262979" tvg-id2="" group-title="ULUSAL /ESKİ USUL", TV 8.5  ULUSAL
+http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77486.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="35" tvg-name="trthaber" tvg-logo="https://m.yilmaztv.cc/logo/trt-haber.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", TRT HABER  HABER
+https://ecanlitv3.etvserver.com/trthaber.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="32" tvg-name="cnnturk" tvg-logo="https://m.yilmaztv.cc/logo/cnn-turk.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", CNN TÜRK  HABER
+https://ecanlitv3.etvserver.com/cnnturk.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="43" tvg-name="tvnet" tvg-logo="https://m.yilmaztv.cc/logo/tvnet.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", TVNET  HABER
+https://ecanlitv3.etvserver.com/tvnet.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="34" tvg-name="ahaber" tvg-logo="https://m.yilmaztv.cc/logo/a-haber.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", A HABER  HABER
+https://ecanlitv3.etvserver.com/ahaber.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="37" tvg-name="haberglobal" tvg-logo="https://m.yilmaztv.cc/logo/haber-global.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", HABER GLOBAL  HABER
+https://ecanlitv3.etvserver.com/haberglobal.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="41" tvg-name="24tv" tvg-logo="https://m.yilmaztv.cc/logo/24-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", 24 TV  HABER
+https://ecanlitv3.etvserver.com/24tv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="36" tvg-name="ulketv" tvg-logo="https://m.yilmaztv.cc/logo/ulke-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", ÜLKE TV  HABER
+https://ecanlitv3.etvserver.com/ulketv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="38" tvg-name="tv100" tvg-logo="https://m.yilmaztv.cc/logo/tv-100.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", TV 100  HABER
+https://ecanlitv3.etvserver.com/tv100.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="39" tvg-name="ntv" tvg-logo="https://m.yilmaztv.cc/logo/ntv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", NTV  HABER
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="33" tvg-name="haberturk" tvg-logo="https://m.yilmaztv.cc/logo/haberturk.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", HABERTÜRK  HABER
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+	
+#EXTINF:-1 tvg-id="60" tvg-name="benguturktv" tvg-logo="https://m.yilmaztv.cc/logo/benguturk-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", BENGÜTÜRK TV  HABER
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="42" tvg-name="akittv" tvg-logo="https://m.yilmaztv.cc/logo/akit-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", AKİT TV  HABER
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+	
+#EXTINF:-1 tvg-id="74" tvg-name="turkhaber" tvg-logo="https://m.yilmaztv.cc/logo/turk-haber.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", TÜRK HABER  HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="45" tvg-name="szctv" tvg-logo="https://m.yilmaztv.cc/logo/szc-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", SZC TV  HABER
+https://ecanlitv3.etvserver.com/sozcutv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="44" tvg-name="halktv" tvg-logo="https://m.yilmaztv.cc/logo/halk-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", HALK TV  HABER
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="46" tvg-name="flashhabertv" tvg-logo="https://m.yilmaztv.cc/logo/flash-haber-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", FLASH HABER TV  HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="40" tvg-name="bloomberght" tvg-logo="https://m.yilmaztv.cc/logo/bloomberg-ht.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", BLOOMBERG HT  HABER
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="47" tvg-name="tbmmtv" tvg-logo="https://m.yilmaztv.cc/logo/tbmm-tv.jpg?t=1700262979" tvg-id2="" group-title="HABER /ESKİ USUL", TBMM TV  HABER
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="50" tvg-name="aspor" tvg-logo="https://m.yilmaztv.cc/logo/a-spor.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", A SPOR  SPOR
+https://ecanlitv3.etvserver.com/aspor.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="51" tvg-name="trtspor" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", TRT SPOR  SPOR
+
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="52" tvg-name="sportstv" tvg-logo="https://m.yilmaztv.cc/logo/sports-tv.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", SPORTS TV  SPOR
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="54" tvg-name="fbtv" tvg-logo="https://m.yilmaztv.cc/logo/fb-tv.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", FB TV  SPOR
+https://ecanlitv3.etvserver.com/fbtv.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="55" tvg-name="bjktv" tvg-logo="https://m.yilmaztv.cc/logo/bjk-tv.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", BJK TV  SPOR
+https://ecanlitv3.etvserver.com/aspor.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="75" tvg-name="trtspor" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", TRT SPOR  SPOR
+
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="77" tvg-name="aspor" tvg-logo="https://m.yilmaztv.cc/logo/a-spor.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", A SPOR  SPOR
+https://ecanlitv3.etvserver.com/aspor.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="48" tvg-name="tivibuspor" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-spor.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", TİVİBU SPOR  SPOR
+https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="49" tvg-name="beinsportshaber" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-haber.jpg?t=1700262979" tvg-id2="" group-title="SPOR /ESKİ USUL", BEİN SPORTS HABER  SPOR
+https://ecanlitv3.etvserver.com/beinsporthaber.m3u8?tkn=BqtS_ptPfeICqdVxrp6sWA&tms=1700584216	
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="1" tvg-name="beinsports1trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-1-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="2" tvg-name="beinsports2trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-2-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="3" tvg-name="beinsports3trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-3-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 3 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="4" tvg-name="beinsports4trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-4-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 4 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="5" tvg-name="beinsports5trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-5-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 5 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="6" tvg-name="beinmax1trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-max-1-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN MAX 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="7" tvg-name="beinmax2trgoals" tvg-logo="https://m.yilmaztv.cc/logo/bein-max-2-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN MAX 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="8" tvg-name="ssporttrgoals" tvg-logo="https://m.yilmaztv.cc/logo/s-sport-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",S SPORT TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinss.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="9" tvg-name="ssport2trgoals" tvg-logo="https://m.yilmaztv.cc/logo/s-sport-2-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",S SPORT 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="10" tvg-name="tivibu1trgoals" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-1-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="11" tvg-name="tivibu2trgoals" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-2-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="12" tvg-name="tivibu3trgoals" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-3-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 3 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayint3.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="13" tvg-name="smartsportrgoals" tvg-logo="https://m.yilmaztv.cc/logo/smartspor-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",SMARTSPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="14" tvg-name="trtsportrgoals" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT SPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="15" tvg-name="trtsporyildiztrgoals" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor-yildiz-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT SPOR YILDIZ TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrtspor2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="16" tvg-name="trt1trgoals" tvg-logo="https://m.yilmaztv.cc/logo/trt-1-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintrt1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="17" tvg-name="asportrgoals" tvg-logo="https://m.yilmaztv.cc/logo/a-spor-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",A SPOR TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinas.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="18" tvg-name="atvtrgoals" tvg-logo="https://m.yilmaztv.cc/logo/atv-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",ATV TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="19" tvg-name="tv8trgoals" tvg-logo="https://m.yilmaztv.cc/logo/tv-8-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TV 8 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="20" tvg-name="tv85trgoals" tvg-logo="https://m.yilmaztv.cc/logo/tv-8-5-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TV 8.5 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="21" tvg-name="nbatvtrgoals" tvg-logo="https://m.yilmaztv.cc/logo/nba-tv-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",NBA TV TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayinnba.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="22" tvg-name="eurosport1trgoals" tvg-logo="https://m.yilmaztv.cc/logo/eurosport-1-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",EUROSPORT 1 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="23" tvg-name="eurosport2trgoals" tvg-logo="https://m.yilmaztv.cc/logo/eurosport-2-trgoals.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",EUROSPORT 2 TRGOALSSPOR
+https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="24" tvg-name="beinsports1taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-1-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 1 TARAFTARİUM24SPOR
+https://cakal.click/yayinstar.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="25" tvg-name="beinsports2taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-2-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinb2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="26" tvg-name="beinsports3taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-3-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 3 TARAFTARİUM24SPOR
+https://cakal.click/yayinb3.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="27" tvg-name="beinsports4taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-4-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 4 TARAFTARİUM24SPOR
+https://cakal.click/yayinb4.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="28" tvg-name="beinsports5taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-sports-5-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN SPORTS 5 TARAFTARİUM24SPOR
+https://cakal.click/yayinb5.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="29" tvg-name="beinmax1taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-max-1-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN MAX 1 TARAFTARİUM24SPOR
+https://cakal.click/yayinbm1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="30" tvg-name="beinmax2taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/bein-max-2-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",BEIN MAX 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinbm2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="31" tvg-name="ssporttaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/s-sport-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",S SPORT TARAFTARİUM24SPOR
+https://cakal.click/yayinss.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="32" tvg-name="ssport2taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/s-sport-2-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",S SPORT 2 TARAFTARİUM24SPOR
+https://cakal.click/yayinss2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="33" tvg-name="tivibu1taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-1-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 1 TARAFTARİUM24SPOR
+https://cakal.click/yayint1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="34" tvg-name="tivibu2taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-2-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 2 TARAFTARİUM24SPOR
+https://cakal.click/yayint2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="35" tvg-name="tivibu3taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/tivibu-3-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TIVIBU 3 TARAFTARİUM24SPOR
+https://cakal.click/yayint3.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="36" tvg-name="smartsportaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/smartspor-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",SMARTSPOR TARAFTARİUM24SPOR
+https://cakal.click/yayinsmarts.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="37" tvg-name="trtsportaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT SPOR TARAFTARİUM24SPOR
+https://cakal.click/yayintrtspor.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="38" tvg-name="trtsporyildiztaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor-yildiz-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT SPOR YILDIZ TARAFTARİUM24SPOR
+https://cakal.click/yayintrtspor2.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="39" tvg-name="trt1taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/trt-1-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TRT 1 TARAFTARİUM24SPOR
+https://cakal.click/yayintrt1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="40" tvg-name="asportaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/a-spor-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",A SPOR TARAFTARİUM24SPOR
+https://cakal.click/yayinas.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="41" tvg-name="atvtaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/atv-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",ATV TARAFTARİUM24SPOR
+https://cakal.click/yayinatv.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="42" tvg-name="tv8taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/tv-8-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TV 8 TARAFTARİUM24SPOR
+https://cakal.click/yayintv8.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="43" tvg-name="tv85taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/tv-8-5-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",TV 8.5 TARAFTARİUM24SPOR
+https://cakal.click/yayintv85.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="44" tvg-name="nbatvtaraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/nba-tv-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",NBA TV TARAFTARİUM24SPOR
+https://cakal.click/yayinnba.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="45" tvg-name="eurosport1taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/eurosport-1-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",EUROSPORT 1 TARAFTARİUM24SPOR
+https://cakal.click/yayineu1.m3u8
+	
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-id="46" tvg-name="eurosport2taraftarium24" tvg-logo="https://m.yilmaztv.cc/logo/eurosport-2-taraftarium24.jpg?t=1699118598" tvg-id2="" group-title="SPOR /ESKİ USUL",EUROSPORT 2 TARAFTARİUM24SPOR
+https://cakal.click/yayineu2.m3u8
+	
+#EXTINF:-1 tvg-id="75" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", ATV  EKSTRA
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="360tv" tvg-logo="https://m.yilmaztv.cc/logo/360-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  360 TV  EKSTRA
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="ahaber" tvg-logo="https://m.yilmaztv.cc/logo/a-haber.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  A HABER  EKSTRA
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="aspor" tvg-logo="https://m.yilmaztv.cc/logo/a-spor.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  A SPOR  EKSTRA
+https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="agrotv" tvg-logo="https://m.yilmaztv.cc/logo/agro-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  AGRO TV  EKSTRA
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  BEYAZ TV  EKSTRA
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  BEYAZ TV  EKSTRA
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="cnnturk" tvg-logo="https://m.yilmaztv.cc/logo/cnn-turk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  CNN TÜRK  EKSTRA
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="diyanetcocuk" tvg-logo="https://m.yilmaztv.cc/logo/diyanet-cocuk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  DIYANET COCUK  EKSTRA
+http://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="foxtv" tvg-logo="https://m.yilmaztv.cc/logo/fox-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  FOX TV  EKSTRA
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="haberturk" tvg-logo="https://m.yilmaztv.cc/logo/haberturk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  HABERTÜRK  EKSTRA
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="halktv" tvg-logo="https://m.yilmaztv.cc/logo/halk-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  HALK TV  EKSTRA
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="kanal23" tvg-logo="https://m.yilmaztv.cc/logo/kanal-23.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL 23  EKSTRA
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="kanal7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL 7  EKSTRA
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="kanal7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL 7  EKSTRA
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="kanald" tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL D  EKSTRA
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="kanald" tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL D  EKSTRA
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/17/index.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="kanalz" tvg-logo="https://m.yilmaztv.cc/logo/kanal-z.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KANAL Z  EKSTRA
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="krttv" tvg-logo="https://m.yilmaztv.cc/logo/krt-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  KRT TV  EKSTRA
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="lalegultv" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  LALEGÜL TV  EKSTRA
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="lalegultv" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  LALEGÜL TV  EKSTRA
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TEVE 2  EKSTRA
+https://yayin.rizeturk.com:3777/multi_web/phttps://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8lay.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="showtv" tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  SHOW TV  EKSTRA
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="showtv" tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  SHOW TV  EKSTRA
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/11/index.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="tarimtv" tvg-logo="https://m.yilmaztv.cc/logo/tarim-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TARIM TV  EKSTRA
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="tele1" tvg-logo="https://m.yilmaztv.cc/logo/tele-1.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TELE 1  EKSTRA
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TEVE 2  EKSTRA
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT 1  EKSTRA
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT 1  EKSTRA
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/84/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="trt2" tvg-logo="https://m.yilmaztv.cc/logo/trt-2.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT 2  EKSTRA
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT BELGESEL  EKSTRA
+http://116.202.238.88/TRTBELGESEL_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT BELGESEL  EKSTRA
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="trtcocuk" tvg-logo="https://m.yilmaztv.cc/logo/trt-cocuk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT ÇOCUK  EKSTRA
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="trtturk" tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TRT TÜRK  EKSTRA
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TV 8  EKSTRA
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  TV 8  EKSTRA
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="womantv" tvg-logo="https://m.yilmaztv.cc/logo/woman-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL",  WOMAN TV  EKSTRA
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", BEYAZ TV  EKSTRA
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", D MAX  EKSTRA
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="kanal7avrupa" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7-avrupa.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", KANAL 7 AVRUPA  EKSTRA
+http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="on6tv" tvg-logo="https://m.yilmaztv.cc/logo/on6-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", ON6 TV  EKSTRA
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TEVE 2  EKSTRA
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TLC   EKSTRA
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="trtdiyanetcocuk" tvg-logo="https://m.yilmaztv.cc/logo/trt-diyanet-cocuk.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TRT DİYANET ÇOCUK  EKSTRA
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TV 8  EKSTRA
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="81" tvg-name="turkmenelitv" tvg-logo="https://m.yilmaztv.cc/logo/turkmeneli-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", TÜRKMENELİ TV  EKSTRA
+https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-name="aslantv" tvg-logo="https://m.yilmaztv.cc/logo/aslan-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", ASLAN TV  EKSTRA
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="83" tvg-name="kralpoptv" tvg-logo="https://m.yilmaztv.cc/logo/kral-pop-tv.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA /ESKİ USUL", KRAL POP TV  EKSTRA
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="cennetmahallesi" tvg-logo="https://m.yilmaztv.cc/logo/cennet-mahallesi.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿CENNET MAHALLESİ 🍿 SİNEMA YOUTUBE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700600584/ei/qMZcZf6sC8WP1gL9kKToBg/ip/195.201.1.32/id/KF9lTDY17iA.1/source/yt_live_broadcast/requiressl/yes/tx/24554063/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0DVrX_lK9nrZTqeYrzzuO_gz_VQBuZtpT-AYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAIfEyEkK8aOIXXnL-tqqn51Ib1Uhy1p0jEpo3Es-bbpiAiEAtdmZwfcmMhgScKwL00cFi9YUVMfxuHwWsNQRNMPpPc8%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="ankatv" tvg-logo="https://m.yilmaztv.cc/logo/anka-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿ANKA TV 🍿 SİNEMA
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
+
+#EXTINF:-1 tvg-id="73" tvg-name="nenettv" tvg-logo="https://m.yilmaztv.cc/logo/nenet-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿NENET TV 🍿 SİNEMA
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
+
+#EXTINF:-1 tvg-id="90" tvg-name="yesilcamtv1" tvg-logo="https://m.yilmaztv.cc/logo/yesilcam-tv-1.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿YEŞİLÇAM TV 1 🍿 SİNEMA
+https://ssh101.bozztv.com/ssh101/yesilcamtv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="yesilcamtv2" tvg-logo="https://m.yilmaztv.cc/logo/yesilcam-tv-2.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿YEŞİLÇAM TV  2 🍿 SİNEMA
+https://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="yesilcamtv3" tvg-logo="https://m.yilmaztv.cc/logo/yesilcam-tv-3.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿YEŞİLÇAM TV  3 🍿 SİNEMA
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="redboxvizyon1" tvg-logo="https://m.yilmaztv.cc/logo/redbox-vizyon-1.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿REDBOX VİZYON 1 🍿 SİNEMA
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="sabantv1" tvg-logo="https://m.yilmaztv.cc/logo/saban-tv1.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 ŞABAN TV1 🍿 SİNEMA
+https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="sabantv4" tvg-logo="https://m.yilmaztv.cc/logo/saban-tv4.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 ŞABAN TV4 🍿 SİNEMA YOUTUBE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700600464/ei/MMZcZaiUKIuFi9oPk_uawAI/ip/195.201.1.32/id/_TdXzEwLvTE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8xUZsmzPGT6r-Qg5F7q1PeKlSo4LyGFInAVtg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgZf2zmho_gF3IMhahkopXF7gD38GXY4IQwzQSYYd2JVkCIQD0w2Dtf-ZRDALHoDBsrqqykphqePU0fMES-UPkQ9X8Dw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="sabantv5" tvg-logo="https://m.yilmaztv.cc/logo/saban-tv5.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 ŞABAN TV5 🍿 SİNEMA YOUTUBE
+
+#EXTINF:-1 tvg-id="28" tvg-name="rizeturk" tvg-logo="https://m.yilmaztv.cc/logo/rize-turk.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 RIZE TÜRK 🍿 SİNEMA
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="muglatv" tvg-logo="https://m.yilmaztv.cc/logo/mugla-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 MUGLA TV 🍿 SİNEMA
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="clctv" tvg-logo="https://m.yilmaztv.cc/logo/clc-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 CLC TV 🍿 SİNEMA
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="81" tvg-name="adatv" tvg-logo="https://m.yilmaztv.cc/logo/ada-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 ADA TV 🍿 SİNEMA
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="tv4" tvg-logo="https://m.yilmaztv.cc/logo/tv-4.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 TV 4 🍿 SİNEMA
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="tv90" tvg-logo="https://m.yilmaztv.cc/logo/tv-90.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 TV 90 🍿 SİNEMA
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="yansimatv" tvg-logo="https://m.yilmaztv.cc/logo/yansima-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿YANSIMA TV 🍿 SİNEMA
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="netsever" tvg-logo="https://m.yilmaztv.cc/logo/net-sever.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿NET SEVER 🍿 SİNEMA
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="tiviturk" tvg-logo="https://m.yilmaztv.cc/logo/tiviturk.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿TİVİTÜRK 🍿 SİNEMA
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="afyonturk" tvg-logo="https://m.yilmaztv.cc/logo/afyon-turk.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 AFYON TÜRK 🍿 SİNEMA
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="cine1tv" tvg-logo="https://m.yilmaztv.cc/logo/cine1-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿 CINE1 TV 🍿 SİNEMA
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="viyanatv" tvg-logo="https://m.yilmaztv.cc/logo/viyana-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿VİYANA TV 🍿 SİNEMA
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="denizpostasitv" tvg-logo="https://m.yilmaztv.cc/logo/deniz-postasi-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿DENİZ POSTASI TV 🍿 SİNEMA
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="85" tvg-name="tivi6" tvg-logo="https://m.yilmaztv.cc/logo/tivi6.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿TİVİ6 🍿 SİNEMA
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="86" tvg-name="blutvplay1" tvg-logo="https://m.yilmaztv.cc/logo/blutv-play-1.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿BLUTV PLAY 1 🍿 SİNEMA
+https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="blutvplay2" tvg-logo="https://m.yilmaztv.cc/logo/blutv-play-2.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿BLUTV PLAY 2 🍿 SİNEMA
+https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="89" tvg-name="showdijitaltv" tvg-logo="https://m.yilmaztv.cc/logo/show-dijital-tv.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿SHOW DİJİTAL TV 🍿 SİNEMA YOUTUBE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700600643/ei/48ZcZYO0N4vPi9oP9c-EsAI/ip/195.201.1.32/id/Bb7BUyO8o1c.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxaW4whqXqjozIEKqTjwe3cb8PieqeZ-ZcYGUg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgHfEoN4LZRLceeaZoqn0tWOApD-ipi3exz3k-S1NwgnECIHz1ARerrUDCSBIy3V24GIYSyz1hOfkBKwXs556QC8Fo/file/index.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="cocuklarduymasin" tvg-logo="https://m.yilmaztv.cc/logo/cocuklar-duymasin.jpg?t=1698913240" tvg-id2="" group-title=".🇹🇷🍿SİNEMA🍿/ESKİ USUL",🍿ÇOCUKLAR DUYMASIN 🍿 SİNEMA YOUTUBE
+
+#EXTINF:-1 tvg-id="1" tvg-name="aksutv" tvg-logo="https://m.yilmaztv.cc/logo/aksu-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", AKSU TV  KAHRAMANMARAŞ
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="alanyapostatv" tvg-logo="https://m.yilmaztv.cc/logo/alanya-posta-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ALANYA POSTA TV  ANTALYA
+https://win4.yayin.com.tr/postatv/postatv/simba.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="anadolunettv" tvg-logo="https://m.yilmaztv.cc/logo/anadolu-net-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ANADOLU NET TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="angaratv" tvg-logo="https://m.yilmaztv.cc/logo/angara-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ANGARA TV  ANKARA
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="astv" tvg-logo="https://m.yilmaztv.cc/logo/as-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", AS TV  BURSA
+https://live.artidijitalmedya.com/artidijital_astv/astv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="birtv" tvg-logo="https://m.yilmaztv.cc/logo/bir-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", BİR TV  İZMİR
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="brtv" tvg-logo="https://m.yilmaztv.cc/logo/br-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", BR TV  ZONGULDAK
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="caytv" tvg-logo="https://m.yilmaztv.cc/logo/cay-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ÇAY TV  RİZE
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="dehatv" tvg-logo="https://m.yilmaztv.cc/logo/deha-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", DEHA TV  DENİZLİ
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="denizpostasitv" tvg-logo="https://m.yilmaztv.cc/logo/deniz-postasi-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", DENİZ POSTASI TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="dimtv" tvg-logo="https://m.yilmaztv.cc/logo/dim-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", DİM TV  ANTALYA
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="edirnetv" tvg-logo="https://m.yilmaztv.cc/logo/edirne-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", EDİRNE TV  EDİRNE
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="ekoltv" tvg-logo="https://m.yilmaztv.cc/logo/ekol-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", EKOL TV  İSTANBUL
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="ertv" tvg-logo="https://m.yilmaztv.cc/logo/er-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ER TV  MALATYA
+https://live.artidijitalmedya.com/artidijital_ertv/ertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="ercistv" tvg-logo="https://m.yilmaztv.cc/logo/ercis-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ERCİŞ TV  VAN
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="ertsahtv" tvg-logo="https://m.yilmaztv.cc/logo/ert-sah-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ERT ŞAH TV  ERZİNCAN
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="estv" tvg-logo="https://m.yilmaztv.cc/logo/es-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ES TV  ESKİŞEHİR
+https://live.artidijitalmedya.com/artidijital_estv/estv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="etv" tvg-logo="https://m.yilmaztv.cc/logo/etv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ETV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_etv/etv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="grttv" tvg-logo="https://m.yilmaztv.cc/logo/grt-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", GRT TV  GAZİANTEP
+https://live.artidijitalmedya.com/artidijital_grt/grt/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="guneydogutv" tvg-logo="https://m.yilmaztv.cc/logo/guneydogu-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", GÜNEYDOĞU TV  ŞANLIURFA
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="guneytv" tvg-logo="https://m.yilmaztv.cc/logo/guney-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", GÜNEY TV  MERSİN
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="haber61tv" tvg-logo="https://m.yilmaztv.cc/logo/haber-61-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", HABER 61 TV  TRABZON
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="hunattv" tvg-logo="https://m.yilmaztv.cc/logo/hunat-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", HUNAT TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="iceltv" tvg-logo="https://m.yilmaztv.cc/logo/icel-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ‎İÇEL TV  MERSİN
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="kackartv" tvg-logo="https://m.yilmaztv.cc/logo/kackar-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KAÇKAR TV  RİZE
+https://kackartv.ozelip.com:3898/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="kanal15" tvg-logo="https://m.yilmaztv.cc/logo/kanal-15.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 15  BURDUR
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="kanal23" tvg-logo="https://m.yilmaztv.cc/logo/kanal-23.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 23  ELAZIĞ
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="kanal26" tvg-logo="https://m.yilmaztv.cc/logo/kanal-26.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 26  ESKİŞEHİR
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="kanal3" tvg-logo="https://m.yilmaztv.cc/logo/kanal-3.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 3  AFYONKARAHİSAR
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="kanal32" tvg-logo="https://m.yilmaztv.cc/logo/kanal-32.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 32  ISPARTA
+https://edge1.socialsmart.tv/kanal32/bant1/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="kanal33" tvg-logo="https://m.yilmaztv.cc/logo/kanal-33.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 33  MERSİN
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="kanal34" tvg-logo="https://m.yilmaztv.cc/logo/kanal-34.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 34  İSTANBUL
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="kanal58" tvg-logo="https://m.yilmaztv.cc/logo/kanal-58.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 58  SİVAS
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="kanal68" tvg-logo="https://m.yilmaztv.cc/logo/kanal-68.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL 68  AKSARAY
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="kanalfirat" tvg-logo="https://m.yilmaztv.cc/logo/kanal-firat.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL FIRAT  ELAZIĞ
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="kanals" tvg-logo="https://m.yilmaztv.cc/logo/kanal-s.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL S  SAMSUN
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w1957339785.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="kanalurfa" tvg-logo="https://m.yilmaztv.cc/logo/kanal-urfa.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL URFA  ŞANLIUFRA
+https://edge1.socialsmart.tv/kanalurfa/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="kanalv" tvg-logo="https://m.yilmaztv.cc/logo/kanal-v.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL V  ANTALYA
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="kanalz" tvg-logo="https://m.yilmaztv.cc/logo/kanal-z.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KANAL Z  ZONGULDAK
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="kaytv" tvg-logo="https://m.yilmaztv.cc/logo/kay-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KAY TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="kentturktv" tvg-logo="https://m.yilmaztv.cc/logo/kent-turk-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KENT TÜRK TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="kontv" tvg-logo="https://m.yilmaztv.cc/logo/kon-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KON TV  KONYA
+https://pro35.canlitvplayer.com/kontv.blutv.com/blutv_kontv2/live.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="konyaolaytv" tvg-logo="https://m.yilmaztv.cc/logo/konya-olay-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KONYA OLAY TV  KONYA 
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="koroglutv" tvg-logo="https://m.yilmaztv.cc/logo/koroglu-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", KÖROĞLU TV  BOLU
+https://edge1.socialsmart.tv/koroglutv/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="lifetv" tvg-logo="https://m.yilmaztv.cc/logo/life-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", LIFE TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="malatyavuslattv" tvg-logo="https://m.yilmaztv.cc/logo/malatya-vuslat-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", MALATYA VUSLAT TV  MALATYA 
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="mavikaradeniz" tvg-logo="https://m.yilmaztv.cc/logo/mavi-karadeniz.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", MAVİ KARADENİZ  İSTANBUL
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="mercantv" tvg-logo="https://m.yilmaztv.cc/logo/mercan-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", MERCAN TV  ADIYAMAN
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="olayturkkayseritv" tvg-logo="https://m.yilmaztv.cc/logo/olay-turk-kayseri-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", OLAY TÜRK KAYSERİ TV  KAYSERİ
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="on6tv" tvg-logo="https://m.yilmaztv.cc/logo/on6-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ON6 TV  BURSA
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="orttv" tvg-logo="https://m.yilmaztv.cc/logo/ort-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", ORT TV  ORDU
+https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="sunrtv" tvg-logo="https://m.yilmaztv.cc/logo/sun-rtv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", SUN RTV  MERSİN
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="tatlisestv" tvg-logo="https://m.yilmaztv.cc/logo/tatlises-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TATLISES TV  İSTANBUL
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="tempotv" tvg-logo="https://m.yilmaztv.cc/logo/tempo-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TEMPO TV  İSTANBUL
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="tekrumelitv" tvg-logo="https://m.yilmaztv.cc/logo/tek-rumeli-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TEK RUMELİ TV  TEKİRDAĞ
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="tontv" tvg-logo="https://m.yilmaztv.cc/logo/ton-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TON TV  ÇANAKKALE
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="tokattv" tvg-logo="https://m.yilmaztv.cc/logo/tokat-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TOKAT TV  TOKAT
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="trakyaturk" tvg-logo="https://m.yilmaztv.cc/logo/trakya-turk.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TRAKYA TÜRK  TEKİRDAĞ
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="tv1" tvg-logo="https://m.yilmaztv.cc/logo/tv-1.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV 1  KAYSERİ
+https://edge1.socialsmart.tv/tv1/bant1/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="tv264" tvg-logo="https://m.yilmaztv.cc/logo/tv-264.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV 264  SAKARYA
+http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="tv41" tvg-logo="https://m.yilmaztv.cc/logo/tv-41.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV 41  KOCAELİ
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="tv48" tvg-logo="https://m.yilmaztv.cc/logo/tv-48.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV 48  MUĞLA
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+#EXTINF:-1 tvg-id="56" tvg-name="tv52" tvg-logo="https://m.yilmaztv.cc/logo/tv-52.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV 52  ORDU
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="tvadana" tvg-logo="https://m.yilmaztv.cc/logo/tv-adana.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", TV ADANA  ADANA
+https://live.artidijitalmedya.com/artidijital_tva/tva/supersatforum_chunks.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="urfanatiktv" tvg-logo="https://m.yilmaztv.cc/logo/urfanatik-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", URFANATİK TV  ŞANLIUFRA
+https://edge1.socialsmart.tv/urfanatiktv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="vangolutv" tvg-logo="https://m.yilmaztv.cc/logo/vangolu-tv.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", VANGÖLÜ TV  VAN
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="vrthd" tvg-logo="https://m.yilmaztv.cc/logo/vrt-hd.jpg?t=1697398160" tvg-id2="" group-title="YEREL /ESKİ USUL", VRT HD  İSTANBUL
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+
